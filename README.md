@@ -1,10 +1,5 @@
-Leaves 
+Leaves-Fork 
 ===========
-
-[![Leaves CI](https://github.com/LeavesMC/Leaves/actions/workflows/leaves.yml/badge.svg)](https://github.com/LeavesMC/Leaves/actions/workflows/leaves.yml)
-[![Leaves Download](https://img.shields.io/github/downloads/LeavesMC/Leaves/total?color=0&logo=github)](https://github.com/LeavesMC/Leaves/releases/latest)
-[![Discord](https://badgen.net/discord/online-members/5hgtU72w33?icon=discord&label=Discord&list=what)](https://discord.gg/5hgtU72w33)
-[![QQ](https://img.shields.io/badge/QQ_Unofficial-815857713-blue)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=nisbmnCFeEJCcYWBQ10th4Fu99XWklH4&authKey=8VlUxSdrFCIwmIpxFQIGR8%2BXvIQ2II%2Bx2JfxuQ8amr9UKgINh%2BdXjudQfc%2FIeTO5&noverify=0&group_code=815857713)
 
 **English** | [中文](https://github.com/LeavesMC/Leaves/blob/master/README_cn.md)
 
@@ -51,10 +46,6 @@ You need JDK 21 and good Internet conditions
 Clone this repo, run `./gradlew applyPatches`, then run `./gradlew createMojmapLeavesclipJar` in your terminal.  
 
 You can find the jars in the `build/libs` directory.
-
-## Pull Requests
-
-See [Contributing](https://github.com/LeavesMC/Leaves/blob/master/docs/CONTRIBUTING.md)
 
 ## Special Thanks To:
 

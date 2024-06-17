@@ -1,10 +1,5 @@
-Leaves
+Leaves-Fork
 ===========
-
-[![Leaves CI](https://github.com/LeavesMC/Leaves/actions/workflows/leaves.yml/badge.svg)](https://github.com/LeavesMC/Leaves/actions/workflows/leaves.yml)
-[![Leaves Download](https://img.shields.io/github/downloads/LeavesMC/Leaves/total?color=0&logo=github)](https://github.com/LeavesMC/Leaves/releases/latest)
-[![Discord](https://badgen.net/discord/online-members/5hgtU72w33?icon=discord&label=Discord&list=what)](https://discord.gg/5hgtU72w33)
-[![QQ](https://img.shields.io/badge/QQ_Unofficial-815857713-blue)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=nisbmnCFeEJCcYWBQ10th4Fu99XWklH4&authKey=8VlUxSdrFCIwmIpxFQIGR8%2BXvIQ2II%2Bx2JfxuQ8amr9UKgINh%2BdXjudQfc%2FIeTO5&noverify=0&group_code=815857713)
 
 [English](https://github.com/LeavesMC/Leaves/blob/master/README.md) | **中文**
 
@@ -50,10 +45,6 @@ dependencies {
 首先克隆此储存库，然后在你的终端里依次执行 `./gradlew applyPatches` 和 `./gradlew createMojmapLeavesclipJar`
 
 最后 你可以在 `build/libs` 文件夹里找到对应的jar文件
-
-## 对于想要出一份力的开发者
-
-可查看 [Contributing](https://github.com/LeavesMC/Leaves/blob/master/docs/CONTRIBUTING_cn.md)
 
 ## 特别感谢
 
